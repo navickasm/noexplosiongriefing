@@ -1,0 +1,5 @@
+name: noexplosiongriefing
+version: '1.0'
+main: dev.navickasm.noexplosiongriefing.Main
+api-version: '1.21'
+author: 'Mack Navickas'
